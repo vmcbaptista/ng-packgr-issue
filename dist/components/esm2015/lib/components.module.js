@@ -1,0 +1,14 @@
+import * as tslib_1 from "tslib";
+import { NgModule } from '@angular/core';
+import { ComponentsComponent } from './components.component';
+let ComponentsModule = class ComponentsModule {
+};
+ComponentsModule = tslib_1.__decorate([
+    NgModule({
+        declarations: [ComponentsComponent],
+        imports: [],
+        exports: [ComponentsComponent]
+    })
+], ComponentsModule);
+export { ComponentsModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29tcG9uZW50cy5tb2R1bGUuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9jb21wb25lbnRzLyIsInNvdXJjZXMiOlsibGliL2NvbXBvbmVudHMubW9kdWxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSxPQUFPLEVBQUUsUUFBUSxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBQ3pDLE9BQU8sRUFBRSxtQkFBbUIsRUFBRSxNQUFNLHdCQUF3QixDQUFDO0FBVTdELElBQWEsZ0JBQWdCLEdBQTdCLE1BQWEsZ0JBQWdCO0NBQUksQ0FBQTtBQUFwQixnQkFBZ0I7SUFONUIsUUFBUSxDQUFDO1FBQ1IsWUFBWSxFQUFFLENBQUMsbUJBQW1CLENBQUM7UUFDbkMsT0FBTyxFQUFFLEVBQ1I7UUFDRCxPQUFPLEVBQUUsQ0FBQyxtQkFBbUIsQ0FBQztLQUMvQixDQUFDO0dBQ1csZ0JBQWdCLENBQUk7U0FBcEIsZ0JBQWdCIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJztcbmltcG9ydCB7IENvbXBvbmVudHNDb21wb25lbnQgfSBmcm9tICcuL2NvbXBvbmVudHMuY29tcG9uZW50JztcblxuXG5cbkBOZ01vZHVsZSh7XG4gIGRlY2xhcmF0aW9uczogW0NvbXBvbmVudHNDb21wb25lbnRdLFxuICBpbXBvcnRzOiBbXG4gIF0sXG4gIGV4cG9ydHM6IFtDb21wb25lbnRzQ29tcG9uZW50XVxufSlcbmV4cG9ydCBjbGFzcyBDb21wb25lbnRzTW9kdWxlIHsgfVxuIl19

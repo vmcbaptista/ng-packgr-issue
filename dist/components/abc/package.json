@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/components-abc.umd.js",
+  "module": "../fesm5/components-abc.js",
+  "es2015": "../fesm2015/components-abc.js",
+  "esm5": "../esm5/abc/components-abc.js",
+  "esm2015": "../esm2015/abc/components-abc.js",
+  "fesm5": "../fesm5/components-abc.js",
+  "fesm2015": "../fesm2015/components-abc.js",
+  "typings": "components-abc.d.ts",
+  "metadata": "components-abc.metadata.json",
+  "sideEffects": false,
+  "name": "components/abc"
+}

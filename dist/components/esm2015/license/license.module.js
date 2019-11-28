@@ -1,0 +1,14 @@
+import * as tslib_1 from "tslib";
+import { NgModule } from '@angular/core';
+import { LicenseComponent } from './license.component';
+let LicenseModule = class LicenseModule {
+};
+LicenseModule = tslib_1.__decorate([
+    NgModule({
+        declarations: [LicenseComponent],
+        imports: [],
+        exports: [LicenseComponent]
+    })
+], LicenseModule);
+export { LicenseModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibGljZW5zZS5tb2R1bGUuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9jb21wb25lbnRzL2xpY2Vuc2UvIiwic291cmNlcyI6WyJsaWNlbnNlLm1vZHVsZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsT0FBTyxFQUFFLFFBQVEsRUFBRSxNQUFNLGVBQWUsQ0FBQztBQUN6QyxPQUFPLEVBQUUsZ0JBQWdCLEVBQUUsTUFBTSxxQkFBcUIsQ0FBQztBQVV2RCxJQUFhLGFBQWEsR0FBMUIsTUFBYSxhQUFhO0NBQUksQ0FBQTtBQUFqQixhQUFhO0lBTnpCLFFBQVEsQ0FBQztRQUNSLFlBQVksRUFBRSxDQUFDLGdCQUFnQixDQUFDO1FBQ2hDLE9BQU8sRUFBRSxFQUNSO1FBQ0QsT0FBTyxFQUFFLENBQUMsZ0JBQWdCLENBQUM7S0FDNUIsQ0FBQztHQUNXLGFBQWEsQ0FBSTtTQUFqQixhQUFhIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJztcbmltcG9ydCB7IExpY2Vuc2VDb21wb25lbnQgfSBmcm9tICcuL2xpY2Vuc2UuY29tcG9uZW50JztcblxuXG5cbkBOZ01vZHVsZSh7XG4gIGRlY2xhcmF0aW9uczogW0xpY2Vuc2VDb21wb25lbnRdLFxuICBpbXBvcnRzOiBbXG4gIF0sXG4gIGV4cG9ydHM6IFtMaWNlbnNlQ29tcG9uZW50XVxufSlcbmV4cG9ydCBjbGFzcyBMaWNlbnNlTW9kdWxlIHsgfVxuIl19
